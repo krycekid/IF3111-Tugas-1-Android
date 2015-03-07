@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tikuserino B O Y S</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="compass_desc">Gambar kompas</string>
+    <string name="button_start">Start aplikasi</string>
+    <string name="bar_code">Bar code</string>
+    <string name="qr_code">QR code</string>
+    <string name="scan_qr">Scan QR code</string>
+    <string name="text">Text Request</string>
+
+</resources>
